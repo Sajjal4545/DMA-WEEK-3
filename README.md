@@ -1,1 +1,1 @@
-<img src="gif/scrollingview.gif" width="400" />
+<img src="gif/scrollingviewchallenge.gif" width="400" />
